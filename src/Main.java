@@ -21,7 +21,7 @@ public class Main {
             System.out.println("If age people equally " + age + " than he is adult");
 
         } else {
-            System.out.println("If age people equally " + age + " than he is not adult,need more time");
+            System.out.println("If age people equally " + age + " than he isn't adult,need more time");
 
         }
 
